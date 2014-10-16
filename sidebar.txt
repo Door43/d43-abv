@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abv:home|Door43 (abv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abv|d43-abv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abv/archive/master.zip|d43-abv.zip]]
+
+**Recent Changes**
+{{changes>ns = abv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abv|Ethnologue data]]
+
